@@ -1,9 +1,11 @@
 # Fractal Family Generator for Blender
 
-![Blender Version](https://img.shields.io/badge/Blender-4.2%2B-orange) 
+![Blender Version](https://img.shields.io/badge/Blender-4.2%2B-orange)
 ![License](https://img.shields.io/badge/License-GPL-green)
 
 A Blender add-on for generating fractal curves using mathematical definitions in Gaussian and Eisenstein integer domains.
+
+The code in this repository may not always be up to date. For the latest version, please refer to the official Blender Extensions Store: [Fractal Family](https://extensions.blender.org/add-ons/fractal-family/).
 
 ## Features
 
